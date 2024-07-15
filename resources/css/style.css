@@ -13,16 +13,22 @@
 .travel-guide h1 {
     font-weight: 300;
     font-size: 42px;
+    color: white;
 }
 
 a {
     color: aquamarine;
     font-size: 16px;
+    text-decoration: underline;
 }
 
 h4 {
     font-size: 21px;
     color: gray;
+}
+
+footer {
+    margin-top: 20px;
 }
 
 .copyright {
